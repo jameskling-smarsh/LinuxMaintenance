@@ -1,2 +1,2 @@
 # LinuxMaintenance
-Linux maintenance and upkieep
+Linux maintenance and upkeep
